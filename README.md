@@ -7,7 +7,9 @@
 
 ![none](https://github.com/Voronin98/Voronin.github.io/blob/master/model.png)
 
-Ссылки на доп.материалы
+Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм). Текст и рисунок диаграммы классов:
+
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/JL0nJiD04AnphrYb0ecMFeGFq23gasqHAnSVkdE444B2Ta4JGKj10Jym0ISX9EOBipzYVIcIOhMQsPdHt0ryhbq-dHZbnsbsevsUK6IqztIlUaCTZQ-TdMRnkJNMqTKepHFLEtFEtkwOeH692AsB4tT8FQXTIXyVN7A5RpJOSjadxUb2iWcl-E97j9ZB_908vbXX8M1DbrcQtz.png)
 
 ## Лабораторная 2
 
