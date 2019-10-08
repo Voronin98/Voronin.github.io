@@ -25,6 +25,23 @@
 ![none](https://github.com/Voronin98/Voronin.github.io/blob/master/prec.png)
 
 ## Лабораторная 2
++ Рисунок контекста:
+
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/model.png)
+
+[Ссылка на .rsf файл](https://github.com/Voronin98/Voronin.github.io/blob/master/Laba%201.%20Voronin.rsf)
+
++ Рисунок диаграммы PDC:
+
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/model2Laba.png)
+
+[Ссылка на .rsf файл](https://github.com/Voronin98/Voronin.github.io/blob/master/Laba%202.%20Voronin.rsf)
+
++ Диаграмма DFD с 3 программными модулями и 2 таблицами:
+
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/modelLaba2DFD.png)
+
+[Ссылка на .rsf файл](https://github.com/Voronin98/Voronin.github.io/blob/master/Laba%202%20DFD.%20Voronin.rsf)
 
 ## Лабораторная 3
 
