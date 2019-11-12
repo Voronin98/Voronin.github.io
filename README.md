@@ -59,11 +59,13 @@
 
 + Диаграмма последовательности:
 
-![none](https://github.com/Voronin98/Voronin.github.io/blob/master/ДиаграммаПоследовательности.png)
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/ДиаграммаПоследовательности3.png)
 
 [Код диаграммы последовательности](https://github.com/Voronin98/Voronin.github.io/blob/master/Код%20диаграммы%20последовательности.txt) 
 
 + ERD:
+
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/ERDLaba3.PNG)
 
 ## Лабораторная 4
 
