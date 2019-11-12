@@ -33,7 +33,7 @@
 
 + Рисунок диаграммы PDC:
 
-![none](https://github.com/Voronin98/Voronin.github.io/blob/master/model2Laba.png)
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/modelRamus2%2C2.png)
 
 [Ссылка на .rsf файл](https://github.com/Voronin98/Voronin.github.io/blob/master/Laba%202.%20Voronin.rsf)
 
@@ -42,6 +42,12 @@
 ![none](https://github.com/Voronin98/Voronin.github.io/blob/master/modelLaba2DFD.png)
 
 [Ссылка на .rsf файл](https://github.com/Voronin98/Voronin.github.io/blob/master/Laba%202%20DFD.%20Voronin.rsf)
+
++ Диаграмма прецедентов:
+
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/ДиаграммаПрецедентовЛаба2.png)
+
+[Код диаграммы прецедетов](https://github.com/Voronin98/Voronin.github.io/blob/master/КодДиаграммыПрецедентов.txt)
 
 ## Лабораторная 3
 
