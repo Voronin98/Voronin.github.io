@@ -51,6 +51,20 @@
 
 ## Лабораторная 3
 
++ Диаграмма DFD:
+
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/modelRamusDFD_Laba_3.png)
+
+[Ссылка на .rsf файл](https://github.com/Voronin98/Voronin.github.io/blob/master/LABA-3.rsf)
+
++ Диаграмма последовательности:
+
+![none](https://github.com/Voronin98/Voronin.github.io/blob/master/ДиаграммаПоследовательности.png)
+
+[Код диаграммы последовательности](https://github.com/Voronin98/Voronin.github.io/blob/master/Код%20диаграммы%20последовательности.txt) 
+
++ ERD:
+
 ## Лабораторная 4
 
 ## Лабораторная 5
